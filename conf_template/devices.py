@@ -7,10 +7,8 @@ devices = {
         "gprimeltexx": { "model": "SM-G530FZ" },
         "gprimeltezt": { "model": "SM-G530MU" },
     },
-     "Samsung Galaxy On7 Pro": {
+    "Samsung Galaxy On7": {
         "o7prolte": { "model": "SM-G600FY" },
-    "Samsung Galaxy J3": {
-        "j3ltectc": { "model": "SM-J3109" },
     },
     "Samsung Galaxy J3 Pro": {
         "j3xprolte": { "model": "SM-J3110/9/9S" },
